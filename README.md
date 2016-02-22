@@ -1,3 +1,10 @@
+Fork adds the following functionality
+- Initalizes validation classes after an ajax call. Useful if a form the loaded via Ajax such as ASP.NET MVC Ajax form
+- Exposes a function to manually trigger validation and initialization of validation classes. Useful for such scenarios as wizards when a form needs to be validated but not submitted.
+
+
+-----------------------------
+
 Bootstrap Validate Scriptlet that supports Twitter Bootstrap styling to 
 jQuery validate and unobstrusive jQuery validate
 
